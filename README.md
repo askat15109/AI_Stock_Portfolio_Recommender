@@ -3,7 +3,7 @@
 
 An intelligent stock portfolio recommender system that combines sentiment analysis, technical indicators, and rule-based logic to suggest optimal stock allocations. The app provides interactive visualizations, portfolio scoring, and downloadable performance reports — all in one Streamlit-based interface.
 
-## Website - https://aistockportfoliorecommender.streamlit.app/
+#### Website - https://aistockportfoliorecommender.streamlit.app/
 ---
 
 ## 🚀 Features
