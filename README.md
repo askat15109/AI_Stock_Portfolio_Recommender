@@ -79,11 +79,11 @@ streamlit run app.py
 
 ## 📷 Screenshots
 
-| Portfolio Allocation | RSI Chart | Report Sample |
+| Portfolio Allocation | RSI Chart | Public Sentiment Per Stock|
 |----------------------|-----------|----------------|
-| ![Pie](assets/pie.png) | ![RSI](assets/rsi.png) | ![Report](assets/report_sample.png) |
+| ![Pie](images/pie.png) | ![RSI](images/rsi.png) | ![Report](images/PublicSentiment.png) |
 
-> (Add your screenshots in a folder called `/assets` and update image paths)
+
 
 ---
 
