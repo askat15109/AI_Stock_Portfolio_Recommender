@@ -81,7 +81,7 @@ streamlit run app.py
 
 | Portfolio Allocation | RSI Chart | Public Sentiment Per Stock|
 |----------------------|-----------|----------------|
-| ![Pie](images/pie.png) | ![RSI](images/rsi.png) | ![Report](images/PublicSentiment.png) |
+| ![Pie](images/pie.png) | ![RSI](images/RSI.png) | ![Report](images/PublicSentiment.png) |
 
 
 
