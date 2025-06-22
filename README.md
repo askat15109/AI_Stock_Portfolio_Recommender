@@ -38,7 +38,6 @@ AI-stock-portfolio-recommender/
 ├── part4_generate_portfolio_features.py
 ├── part5a_rule_based_recommender.py
 ├── part5b_visualize_portfolio.py   # Static charts
-├── part5c_visualize_interactive.py # Plotly interactive charts (optional)
 ├── report_generator.py             # PDF report creation
 ├── requirements.txt
 └── README.md
@@ -108,10 +107,7 @@ streamlit run app.py
 
 ## 📬 Contact
 
-**Akshat Choubey**  
-📍 Nagpur, India  
-📧 your.email@example.com  
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+**Akshat Choubey**   
 
 ---
 
